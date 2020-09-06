@@ -9,13 +9,10 @@ C command-line Hangman Game using forks ( Father and Child process ), Signals, a
 
 ## How to use Hangman?
 
-The `hangman` executable expects a dictionary file as argument.
+The `hangman` executable expects a defined dictionary file .
 
 Example:
 
-```
-./ListWords.txt
-```
 Hangman will import the dictionary file & select a random word from it. Then it will show you the word & your tries left, and ask you to input a letter.
 
 Beginning of a game example:
