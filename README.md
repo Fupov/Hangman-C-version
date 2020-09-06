@@ -1,5 +1,5 @@
 # Hangmane Game
-C command-line [Hangman Game] using forks ( Father and Child process ), Signals, and pipes
+C command-line Hangman Game using forks ( Father and Child process ), Signals, and pipes.
 
 ## Requirement
 
